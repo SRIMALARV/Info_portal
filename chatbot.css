@@ -1,0 +1,13 @@
+
+.chat{
+    
+    width: 350px;
+}
+.mychatbot{
+    display: flexbox;
+}
+.body1{
+    background-image: url("https://wallpapercave.com/wp/wp3988922.png");
+    background-repeat: repeat-x;
+    height: 650px;
+    }
